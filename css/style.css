@@ -2,7 +2,11 @@
 
 /*body*/
 body {
+	background-image: url("../assets/env/9.jpg");
+	background-repeat:no-repeat;
+	background-position:50% 20%;
 	
+	background-color: white;
 }
 /* Pop-up */
 .pop-up {
