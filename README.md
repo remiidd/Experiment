@@ -8,7 +8,7 @@ This project is a website who allow me to develop and try my scripts Javascript 
 - [x] Red borders appear on the edge of the images *(v0.7)*
 - [x] Animation of the borders *(v0.7)*
 - [x] Animation of the pop-up *(v0.7)*
-- [ ] Selection of the language ( french or english ) *(v???)*
+- [x] Selection of the language ( french or english ) *(v0.9)*
 - [ ] Loading of images before they appear on the screen *(v???)*
 
 
@@ -21,5 +21,5 @@ Ce projet est un site qui me permet de developper et d'essayer mes scripts Javas
 - [x] Des bordures rouges apparaissent sur les bords des images *(v0.7)*
 - [x] Animation des bordures *(v0.7)*
 - [x] Animation du pop-up *(v0.7)*
-- [ ] Selection de la langue ( français ou anglais ) *(v???)*
+- [x] Selection de la langue ( français ou anglais ) *(v0.9)*
 - [ ] Chargement des images avant qu'elles n'apparaissent à l'écran *(v???)*
