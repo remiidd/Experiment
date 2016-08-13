@@ -1,0 +1,82 @@
+/*Project Experiment*/
+
+/*body*/
+body {
+	background-image: url("../assets/env/9.jpg");
+	background-repeat:no-repeat;
+	background-position:50% 20%;
+	
+	background-color: white;
+}
+
+/* Pop-up */
+.pop-up {
+	width: 23%;
+	height: 20%;
+	background-color: white;
+	text-align: center;
+	opacity: 0.75;
+	border-radius: 10px 10px 10px 10px;
+	margin: auto;
+	margin-top: 10px;
+}
+.txt-pop-up{
+	font-family: Verdana;
+}
+.img-pop-up{
+	display: block;
+	margin: auto;
+	float: bottom;
+	width: 65%;
+	height: 8,9%;
+}
+
+/* Bordures */
+/*  Gauche  */
+.bordureGauche {
+	width : 50px;
+	height : 100%;
+	background: linear-gradient(90deg, red, transparent);
+	float: left;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.bordureBGauche {
+	width : 50px;
+	height : 100%;
+	background: linear-gradient(90deg, red, transparent);
+	float: left;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+/*  Droite  */
+.bordureDroite {
+	width : 50px;
+	height : 100%;
+	background: linear-gradient(-90deg, red, transparent);
+	float: right;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+.bordureBDroite {
+	width : 50px;
+	height : 100%;
+	background: linear-gradient(-90deg, red, transparent);
+	float: right;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+}
+
+/* Language */
+.flag {
+	width: 30px;
+	height: 20px;
+	float: left;
+	position: absolute;
+	top: 10px;
+	right: 10px;
+}
