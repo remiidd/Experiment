@@ -1,0 +1,27 @@
+/*Project Experiment*/
+
+/*body*/
+body {
+	
+}
+/* Pop-up */
+.pop-up {
+	width: 23%;
+	height: 20%;
+	background-color: white;
+	text-align: center;
+	opacity: 0.85;
+	border-radius: 10px 10px 10px 10px;
+	margin: auto;
+	margin-top: 10px;
+}
+.txt-pop-up{
+	font-family: Verdana;
+}
+.img-pop-up{
+	display: block;
+	margin: auto;
+	float: bottom;
+	width: 65%;
+	height: 8,9%;
+}
