@@ -1,7 +1,7 @@
 // PROJECT EXPERIMENT
 
 var main = function() {
-	setTimeout(popup, 5000);
+	setTimeout(popup, 6000);
 };
 var popup = function() {
 	$('.pop-up').animate({
