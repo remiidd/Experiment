@@ -1,4 +1,8 @@
 #  Project Experiment
+## Try it  now ! Essayez le maintenant !
+You can try the site if you click [here !](http://unuspace.xyz/exp)
+Vous pouvez essayer le site si vous cliquez [ici !](http://unuspace.xyz/exp)
+
 ## English : 
 This project is a website who allow me to develop and try my scripts Javascript who switch images with a keyboard
 
