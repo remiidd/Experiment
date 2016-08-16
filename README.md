@@ -9,7 +9,7 @@ This project is a website who allow me to develop and try my scripts Javascript 
 - [x] Animation of the borders *(v0.7)*
 - [x] Animation of the pop-up *(v0.7)*
 - [x] Selection of the language ( french or english ) *(v0.9)*
-- [ ] Loading of images before they appear on the screen *(v???)*
+- [x] Loading of images before they appear on the screen *(v1.0)*
 
 
 ## Français :
@@ -22,4 +22,4 @@ Ce projet est un site qui me permet de developper et d'essayer mes scripts Javas
 - [x] Animation des bordures *(v0.7)*
 - [x] Animation du pop-up *(v0.7)*
 - [x] Selection de la langue ( français ou anglais ) *(v0.9)*
-- [ ] Chargement des images avant qu'elles n'apparaissent à l'écran *(v???)*
+- [x] Chargement des images avant qu'elles n'apparaissent à l'écran *(v1.0)*
